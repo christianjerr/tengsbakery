@@ -1,7 +1,8 @@
-body{
-    font-family: 'Quicksand', sans-serif;
-}
+@font-face { font-family: Delicious; src: url('../gothic.ttf'); } 
 
+*{
+    font-family: Delicious
+}
 
 header{
     
